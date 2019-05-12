@@ -1,0 +1,28 @@
+header {
+    background:	rgb(31, 247, 31);
+}
+
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+
+h2 {
+  font: 100 14px sans-serif;
+  
+}
+
+header,section,footer,aside,nav,article{
+    display: block;
+}
+
+video{
+    background: transparent
+}
+
+footer {
+    background: rgb(81, 60, 102) 10px;
+}
+
